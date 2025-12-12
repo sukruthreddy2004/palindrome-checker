@@ -1,65 +1,38 @@
-📄 Palindrome Checker (Python)
+ Palindrome Checker (Python)
 
 A simple and effective Python project that checks whether a given word or sentence is a palindrome.
 This project is part of Dodla Sai Sukruth Reddy’s Python Developer Roadmap, focusing on string manipulation and decision-making.
 
-🚀 Features
+--> Features
 
-Checks words and full sentences
+1.Checks words and full sentences
+2.Ignores spaces
+3.Case-insensitive
+4.Uses Python string slicing
+5.Beginner-friendly
+6.Job-ready clean code
 
-Ignores spaces
+--->Example Input/Output
 
-Case-insensitive
-
-Uses Python string slicing
-
-Beginner-friendly
-
-Job-ready clean code
-
-📌 Example Input/Output
+Input: madam
+Output: 'madam' is a palindrome.
 
 Input:
-
-madam
-
-
-Output:
-
-'madam' is a palindrome.
-
-
-Input:
-
 Never odd or even
-
-
 Output:
-
 'Never odd or even' is a palindrome.
 
-🛠️ How it Works
+---> How it Works
+1.Takes user input
+2.Removes spaces
+3.Converts to lowercase
+4.Compares string with its reverse using slicing
+5.Prints result
 
-Takes user input
-
-Removes spaces
-
-Converts to lowercase
-
-Compares string with its reverse using slicing
-
-Prints result
-
-🧠 Python Concepts Used
-
-Variables
-
-Input
-
-String methods
-
-String slicing ([::-1])
-
-If/else decision making
-
-Function definition
+--->Python Concepts Used
+1.Variables
+2.Input
+3.String methods
+4.String slicing ([::-1])
+5.If/else decision making
+6.Function definition
