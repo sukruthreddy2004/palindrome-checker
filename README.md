@@ -29,6 +29,7 @@ Output:
 'Never odd or even' is a palindrome.
 
 ---> How it Works
+
 1.Takes user input
 
 2.Removes spaces
@@ -40,6 +41,7 @@ Output:
 5.Prints result
 
 --->Python Concepts Used
+
 1.Variables
 
 2.Input
@@ -49,4 +51,5 @@ Output:
 4.String slicing ([::-1])
 
 5.If/else decision making
+
 6.Function definition
